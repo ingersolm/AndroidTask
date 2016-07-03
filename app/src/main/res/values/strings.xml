@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android Test Ingersoll</string>
+    <string name="action_sort_atoz">Sort By A-Z</string>
+    <string name="action_sort_ztoa">Sort By Z-A</string>
+
+    <string name="label_contacts">Contacts</string>
+    <string name="user_name_title">UserName</string>
+    <string name="user_phone_title">Phone</string>
+    <string name="user_address_title">Address</string>
+    <string name="user_web_title">Website</string>
+    <string name="user_company_title">Company</string>
+
+    <string name="error_network">Please check your internet connection.</string>
+    <string name="error_network_title">Network Error</string>
+    <string name="error_connection_title">Connection Issue</string>
+    <string name="error_connection">No response from the server.</string>
+</resources>

@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".orionhealth.ingersoll.com.androidtask.activities.ContactsListActivity">
+
+    <item
+        android:id="@+id/action_sort_az"
+        android:orderInCategory="100"
+        android:title="@string/action_sort_atoz"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sort_za"
+        android:orderInCategory="100"
+        android:title="@string/action_sort_ztoa"
+        app:showAsAction="never" />
+</menu>
